@@ -76,7 +76,7 @@ http://localhost:5678/
 </kbd>
 <br> <br>
 
-4. Your workflow should looke like this:
+4. Your workflow should looks like this:
 <kbd>
 <img width="480" height="385" alt="image" src="https://github.com/user-attachments/assets/cc27a124-13c0-4aa5-be40-443c2ed38f37" />
 </kbd>
