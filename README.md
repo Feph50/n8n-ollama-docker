@@ -55,21 +55,32 @@ http://localhost:5678/
 
 1. Press `N` on your keyboard (to create nodes in n8n) and search for **Basic LLM Chain**
 
-![image](https://hackmd.io/_uploads/SypuCQMa-l.png)
+<kbd>
+<img width="1255" height="1368" alt="image" src="https://github.com/user-attachments/assets/b8c1d4ea-1b08-466f-b52d-1ca07c1209fe" />
+</kbd>
+<br> <br>
 
 2. Press `Esc` and click the `+` under **Basic LLM Chain** node
-![image](https://hackmd.io/_uploads/HkphCmzpZe.png)
+<kbd>
+<img width="449" height="248" alt="image" src="https://github.com/user-attachments/assets/b35b15b3-05a5-4f6a-b6b5-6b2487e99e03" />
+</kbd>
+<br> <br>
 
 3. Search for `Ollama Model` and configure it as follows:
 
 * Model: `qwen2.5:3b`
 * Click **Set up credential** and save to activate local Ollama instance.
-![image](https://hackmd.io/_uploads/BksRA7fpWx.png)
 
+<kbd>
+<img width="1251" height="1363" alt="image" src="https://github.com/user-attachments/assets/68d2636e-6da8-430c-827e-aac631a30af6" />
+</kbd>
+<br> <br>
 
 4. Your workflow should looke like this:
-![image](https://hackmd.io/_uploads/BkpXJEzaWe.png)
-
+<kbd>
+<img width="480" height="385" alt="image" src="https://github.com/user-attachments/assets/cc27a124-13c0-4aa5-be40-443c2ed38f37" />
+</kbd>
+<br> <br>
 
 🎉 **Done:** The LLM Node is now ready to process inputs from your n8n workflow. You can start by building small automation projects (e.g., summarizing Telegram notifications, processing emails, etc.).
 
@@ -77,5 +88,8 @@ http://localhost:5678/
 ### 💡 Example Use Case:
 
 This is the project I built recently with LLM Nodes to crawl price of BTC, news and notify to my Telegram:
-![image](https://hackmd.io/_uploads/HyLJg4Mp-e.png)
 
+<kbd>
+<img width="1120" height="918" alt="image" src="https://github.com/user-attachments/assets/7bafef35-0272-4105-aedc-27cfe364cf6a" />
+</kbd>
+<br>
